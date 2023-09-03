@@ -1,0 +1,6 @@
+db.sqlite3
+.env
+env/
+venv/
+__pycache__/
+image.jpg
